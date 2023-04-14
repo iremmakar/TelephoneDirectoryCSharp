@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Pratikler\telDir\bin\Debug\net6.0\telDir.exe
+C:\Users\Acer\Desktop\Pratikler\telDir\bin\Debug\net6.0\telDir.deps.json
+C:\Users\Acer\Desktop\Pratikler\telDir\bin\Debug\net6.0\telDir.runtimeconfig.json
+C:\Users\Acer\Desktop\Pratikler\telDir\bin\Debug\net6.0\telDir.dll
+C:\Users\Acer\Desktop\Pratikler\telDir\bin\Debug\net6.0\telDir.pdb
+C:\Users\Acer\Desktop\Pratikler\telDir\obj\Debug\net6.0\telDir.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Pratikler\telDir\obj\Debug\net6.0\telDir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Pratikler\telDir\obj\Debug\net6.0\telDir.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Pratikler\telDir\obj\Debug\net6.0\telDir.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Pratikler\telDir\obj\Debug\net6.0\telDir.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Pratikler\telDir\obj\Debug\net6.0\telDir.dll
+C:\Users\Acer\Desktop\Pratikler\telDir\obj\Debug\net6.0\refint\telDir.dll
+C:\Users\Acer\Desktop\Pratikler\telDir\obj\Debug\net6.0\telDir.pdb
+C:\Users\Acer\Desktop\Pratikler\telDir\obj\Debug\net6.0\telDir.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Pratikler\telDir\obj\Debug\net6.0\ref\telDir.dll
